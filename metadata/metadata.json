@@ -2063,6 +2063,18 @@
       "author": "remo7777",
       "requireRoot": false,
       "publishedAt": "03-05-2026"
+    },
+    {
+      "id": "0173",
+      "name": "illeagal-sounds",
+      "description": “This is an automated offloader made for yt-dlp, a YouTube downloader and converter.",
+      "category": "Utilities & Dev",
+      "install": "pkg install ffmpeg pip\npip install yt-dlp",
+      "thumbnail": "",
+      "repo": "https://github.com/stp-ngnm/illeagal-sounds",
+      "author": "stp-ngnm",
+      "requireRoot": false,
+      "publishedAt": "10-05-2026"
     }
   ]
 }
